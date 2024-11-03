@@ -1,5 +1,5 @@
 # Permutations Project
-<img src="assets/futbol_python.png" height="450" width="1000">
+<img src="assets/futbol_python.png" height="600" width="1000">
 
 ## Topics 
 This project covers topics in combinatorics and permutations, focusing specifically on scenarios related to sports competition analysis. It leverages permutations to help simulate and analyze potential outcomes in a tournament setting, using real competition data for decision support.
